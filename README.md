@@ -1,14 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="images/logo/logo_white.gif" alt="code cane logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>CODE CANE</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -34,7 +25,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Kaweesi's Portfolio<a name="about-project"></a>
+# 📖 Tash's Portfolio<a name="about-project"></a>
 
 This project is my porfolio design with which I talk about myself and my professional experience in programming. It features some of my personal projects and numerous means to get in touch with me.
 
