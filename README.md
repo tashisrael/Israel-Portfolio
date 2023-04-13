@@ -58,7 +58,7 @@ This project is my porfolio design with which I talk about myself and my profess
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link]()
+- [Live Demo Link](https://tashobya-israel.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
