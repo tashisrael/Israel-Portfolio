@@ -57,7 +57,10 @@ const typed = new Typed('.multiple-text', {
   strings: [
     'Full-Stack Software Developer',
     'Tech Enthusiast',
-    'Health and Fitness Savvy',
+    'Problem Solver',
+    'Database Admin',
+    'Android Developer',
+    'Digital Marketer',
   ],
   typeSpeed: 50,
   backSpeed: 10,
@@ -132,51 +135,51 @@ const popUpMenu = (project) => {
 /* Render projects dynamically */
 const projectsArr = [
   {
-    image: 'images/project_screen_shots/awesome_books_2.png',
+    image: 'images/project_screen_shots/project2.PNG',
     title: 'Awesome Books',
-    githubLink: 'https://github.com/Kaweesi-Matia/Awesome-Books',
-    liveLink: 'https://amon-cofie.github.io/Awesome-books-ES6/',
+    githubLink: 'https://github.com/tashisrael/awesome-books',
+    liveLink: 'https://tashisrael.github.io/awesome-books/',
     details:
       'This project showcases a Single Page Application featuring a medium-fidelity wireframe of a book management app that stores books that can be added and deleted. It was developed primarily using JavaScript and strict ES6 features.',
   },
   {
-    image: 'images/project_screen_shots/spend_right_2.png',
-    title: 'Spend Right',
-    githubLink: 'https://github.com/amon-cofie/spend-right-budget-app',
-    liveLink: 'https://spend-right.onrender.com/',
+    image: 'images/project_screen_shots/project1.png',
+    title: 'BMW CC Global Summit Website',
+    githubLink: 'https://github.com/tashisrael/Capstone1/',
+    liveLink: 'https://tashisrael.github.io/Capstone1/',
     details:
-      'Spend Right is a full stack ruby on rails web application on a PostgreSQL database, built to manage your finances by grouping your expenses or transactions into categories and helping you visualize how much you are spending and where you are spending the most amount of money.',
+      'This is a Capstone Project template for an BMW CC Global Summit built with HTML, CSS, and JavaScript. A user can be able to see what the summit is about and view featured speakers.',
   },
   {
-    image: 'images/project_screen_shots/to_do_list_2.png',
+    image: 'images/project_screen_shots/project3.PNG',
     title: 'To-Do-List',
-    githubLink: 'https://github.com/Kaweesi-Matia/To-do-list_APP',
-    liveLink: 'https://amon-cofie.github.io/To-Do-List/',
+    githubLink: 'https://github.com/tashisrael/To-Do-List',
+    liveLink: 'https://tashisrael.github.io/To-Do-List/dist/',
     details:
       'This project features a Single Page Application featuring a medium fidelity wireframe of a to-do-list app that stores tasks that a user adds. These tasks can be marked as completed or incomplete. They can also be edited or deleted. This project is built mainly with JavaScript and strict ES6 features and bundled with Webpack.',
   },
   {
-    image: 'images/project_screen_shots/bmen_conference_2.png',
-    title: 'BMEN 2022',
-    githubLink: 'https://github.com/Kaweesi-Matia/capstone_1',
-    liveLink: 'https://amon-cofie.github.io/first-capstone-project/',
-    details: 'This project features a two-page website for a pretend biomedical engineering conference. Inspiration for this project was obtained from Cindy Shin\'s Behance design of a website for a Creative Commons Summit set to happen in October 2022. It is built with HTML, CSS, and JavaScript.',
+    image: 'images/project_screen_shots/project5.PNG',
+    title: 'LeaderBoard Website',
+    githubLink: 'https://github.com/tashisrael/LeaderBoard',
+    liveLink: 'https://tashisrael.github.io/LeaderBoard/dist/',
+    details: 'This is a website(Desktop version) for tracking Leaderbaord scores from an API built using webpack and served by a webpack dev server. Click the refresh button after adding a score',
   },
   {
-    image: 'images/project_screen_shots/air_pollution_tracker_1.png',
-    title: 'AQI Tracker',
-    githubLink: 'https://github.com/amon-cofie/Air-Pollution-Tracking-App',
-    liveLink: 'https://airpollutiontracker.netlify.app/',
+    image: 'images/project_screen_shots/project6.png',
+    title: 'API-basedWebApp For Pokemons',
+    githubLink: 'https://github.com/gandradep/API-basedWebApp',
+    liveLink: 'https://gandradep.github.io/API-basedWebApp/dist/',
     details:
-      'This project showcases a simple Single Page Application that tracks current air pollution data in any city in the world. It gives hourly-average data on levels of concentration of various pollutes including Carbon Mono-Oxide, Ozone, PM25, and PM10. It is useful for checking the air quality in your local city or a city you would like to visit.',
+      'This app shows 20 Pokemon characters that are fetch from the Pokeapi. You can interact with each one, giving them a like or adding a comment.The moment you press the comment button, a pop-up window will show up with more details about the Pokemon and will also show the comments left for it.',
   },
   {
-    image: 'images/project_screen_shots/leaderboard_2.png',
-    title: 'Leaderboard',
-    githubLink: 'https://github.com/Kaweesi-Matia/Leader_Board',
-    liveLink: 'https://amon-cofie.github.io/leaderboard-project/dist/',
+    image: 'images/project_screen_shots/project8.png',
+    title: 'Calculator App',
+    githubLink: 'https://github.com/tashisrael/Math-Magicians',
+    liveLink: 'https://calculator-app-by-tash.netlify.app/',
     details:
-      'This project showcases a JavaScript web app that stores the high scores for your games and the players that had those scores. It lists the scores in descending order, revealing the player with the highest score. It is bundled with Webpack.',
+      '"Math magicians" is a website(Desktop version) for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations. Read a random math-related quote.',
   },
 ];
 
