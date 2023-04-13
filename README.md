@@ -67,7 +67,7 @@ This project is my porfolio design with which I talk about myself and my profess
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://thunderous-dolphin-e7afb8.netlify.app)
+- [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,8 +100,8 @@ Now open your terminal in this folder and run the following commands:
 
 
 ```sh
-  git clone git@github.com:amon-cofie/amon-cofie-portfolio.git
-  cd amon-cofie-portfolio  
+  git clone https://github.com/tashisrael/Israel-Portfolio.git
+  cd Israel-Portfolio 
 ```
 
 You can open the current project folder in your code editor.
@@ -140,12 +140,11 @@ This project is deployed live on netlify
 
 ## 👥 Author <a name="authors"></a>
 
+👤 **Tashobya Israel**
 
-👤 **Kaweesi Matia**
-
-- GitHub: [@Kaweesi-Matia](https://github.com/Kaweesi-Matia)
-- Twitter: [@kaweesimatia](https://twitter.com/kaweesimatia)
-- LinkedIn: [Kaweesi Matia](https://www.linkedin.com/in/kaweesi-matia/)
+- GitHub: [@githubhandle](https://github.com/tashisrael)
+- Twitter: [@twitterhandle](https://twitter.com/tashisrael)
+- Linkedin: [@linkedinhandle](https://www.linkedin.com/in/tashobya-israel-6a66b0181/l)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,7 +153,7 @@ This project is deployed live on netlify
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- **3D animations on home section**
+- **Add more projects**
 - **Add my certificates and qualifications**
 
 
@@ -166,7 +165,7 @@ This project is deployed live on netlify
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Kaweesi-Matia/Portfolio/issues).
+Feel free to check the [issues page](https://github.com/tashisrael/Israel-Portfolio/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
